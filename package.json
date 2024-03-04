@@ -1,0 +1,22 @@
+{
+    "name": "io.codeeffect.webrtc",
+    "displayName": "CodeEffect WebRTC",
+    "description": "A WebRTC conferencing service definition for the service framework. This package does not work standalone and requires the contained interfaces and abstract implementations to be implemented.",
+    "version": "1.0.0-pre.1",
+    "unity": "2022.3",
+    "author": "CodeEffect GmbH",
+    "keywords": [
+        "WebRTC",
+        "Conference",
+        "Audio",
+        "Video"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CodeEffect-GmbH/io.codeeffect.webrtc.git"
+    },
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.2",
+        "com.realitycollective.service-framework": "1.0.0"
+    }
+}

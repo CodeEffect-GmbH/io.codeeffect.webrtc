@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/XR/Resources.meta
+guid: 2c77daeb3f88685438b8de1550d5e124
+========
+guid: 26837c95f53673c48893885b639c3d8f
+>>>>>>>> 1c6ad7f462ef9adc30c0b5a8a108c898cc736801:Packages/io.codeeffect.webrtc/Runtime/Video.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
