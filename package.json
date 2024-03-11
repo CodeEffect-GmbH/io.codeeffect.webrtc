@@ -2,7 +2,7 @@
     "name": "io.codeeffect.webrtc",
     "displayName": "CodeEffect WebRTC",
     "description": "A WebRTC conferencing service definition for the service framework. This package does not work standalone and requires the contained interfaces and abstract implementations to be implemented.",
-    "version": "1.0.0-pre.1",
+    "version": "1.0.0-pre.2",
     "unity": "2022.3",
     "author": "CodeEffect GmbH",
     "keywords": [
